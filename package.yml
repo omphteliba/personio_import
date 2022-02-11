@@ -1,0 +1,18 @@
+package: d2u_jobs/personio_import
+version: '1.0.0'
+author: Tobias Krais
+supportpage: http://github.com/omphteliba/d2u_jobs_personio
+
+page:
+    title: 'translate:d2u_jobs_personio'
+    perm: d2u_jobs[personio]
+    icon: rex-icon fa-cloud-download
+
+requires:
+    php:
+        extensions: [xml]
+    packages:
+        cronjob: '>=2.1.1'
+        media_manager: '>=2.2.0'
+        sprog: '>=1.0.0'
+    redaxo: '>=5.6.0'

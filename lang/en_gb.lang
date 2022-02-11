@@ -1,0 +1,19 @@
+d2u_jobs_personio = Personio Import
+
+d2u_jobs_personio_category_id = Personio category ID
+d2u_jobs_personio_import = Import
+d2u_jobs_personio_import_failure_xml_url = Error loading XML file to be imported. Please check URL settings.
+d2u_jobs_personio_import_job_id = Personio ID
+d2u_jobs_personio_import_lead_in = Personio iintroduction text
+d2u_jobs_personio_import_success = Successfully imported.
+d2u_jobs_personio_settings_failure_xml_url = XML file URL settings are missing.
+d2u_jobs_personio_settings_personio_autoimport = Automatic daily import
+d2u_jobs_personio_settings_personio_default_category = Standard category
+d2u_jobs_personio_settings_personio_media_category = Standard mediapool category
+d2u_jobs_personio_settings_personio_xml_url = XML URL
+d2u_jobs_personio_settings_headline_tag = HTML heading tag used in XML file for headings
+d2u_jobs_personio_settings_default_lang = Import default language
+d2u_jobs_personio_settings_xml_url = Personio XML URL
+d2u_jobs_personio_url_application_form = URL Personio application form
+
+d2u_jobs_personio_rights = D2U Jobs addon: Personio import plugin

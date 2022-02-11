@@ -1,0 +1,19 @@
+d2u_jobs_personio = Personio Import
+
+d2u_jobs_personio_category_id = Personio Kategorie ID
+d2u_jobs_personio_import = Import starten
+d2u_jobs_personio_import_failure_xml_url = Zu importierende XML-Datei konnte nicht heruntergeladen werden. Bitte überprüfen Sie die URL in den Einstellungen.
+d2u_jobs_personio_import_job_id = Personio ID
+d2u_jobs_personio_import_lead_in = Personio Einleitungstext
+d2u_jobs_personio_import_success = Import erfolgreich abgeschlossen.
+d2u_jobs_personio_settings_failure_xml_url = URL der zu importierenden XML-Datei wurde in den Einstellungen noch nicht festgelegt.
+d2u_jobs_personio_settings_personio_autoimport = Automatischer täglicher Import
+d2u_jobs_personio_settings_personio_default_category = Standard Kategorie
+d2u_jobs_personio_settings_personio_media_category = Standard Medienpool Kategorie
+d2u_jobs_personio_settings_personio_xml_url = XML URL
+d2u_jobs_personio_settings_headline_tag = Im Importtext verwendetes Tag für Überschriften
+d2u_jobs_personio_settings_default_lang = Sprache des Imports
+d2u_jobs_personio_settings_xml_url = URL zu importierende XML-Datei
+d2u_jobs_personio_url_application_form = URL zum Bewerbungsformular
+
+d2u_jobs_personio_rights = D2U Stellenmarkt Addon: Personio Import Plugin
